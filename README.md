@@ -4,9 +4,9 @@ An application to search for Github users.
 
 ## Getting Started
 
--Clone branch
--`npm i`
--`npm start`
+Clone branch
+`npm i`
+`npm start`
 
 ## Deployment
 
